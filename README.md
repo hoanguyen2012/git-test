@@ -1,2 +1,2 @@
 # git-test
-how to you git hub
+how to use git hub
