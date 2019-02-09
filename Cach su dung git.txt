@@ -1,0 +1,17 @@
+Buoc 1:
+tao clone:
+Click chuot phai vao ---> Bash here
+Go lenh: git clone https://github.com/hoanguyenhiics/git-test.git
+
+Buoc 2: kiem tra trang thai clone (noi co file README.md)
+$ git status
+
+Buoc 3: 
+Them tat ca file vao trong thu muc
+$ git add *
+
+Buoc 4:
+$ git commit -m" <Chu thich>"
+
+Buoc 5
+$ git push
